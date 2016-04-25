@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main()
 {
-  int testFile1[100] = 1000 ; 
+  int testFile1[11] = 11 ; 
   printf("Bye Bye\n"); 
 }
